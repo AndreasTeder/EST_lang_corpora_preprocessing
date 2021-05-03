@@ -19,7 +19,7 @@ Both the results for the preprocessing methods and for the models can be seen in
 ### AutosegmentedTextGridCreator
 * Python >= 3.6
 * Pandas >= 1.1.3
-* Jupyer >= 1.0.0
+* Jupyter >= 1.0.0
 ## Models
 3 models were created for the purpose of this work using [the Deep Voice 3 adaptation for Estonian](https://github.com/TartuNLP/deepvoice3_pytorch). For instructions on how to use the models, please refer to the previous link.  
 The models can be downloaded from here:
