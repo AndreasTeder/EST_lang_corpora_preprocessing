@@ -27,7 +27,8 @@ The models can be downloaded from here:
 * [Autosegment with text preprocessing model](https://drive.google.com/file/d/1rEJRWDKqCtKIOosD5he4clmBjIfeeAuC/view?usp=sharing)
 * [Autosegment without text preprocessing model](https://drive.google.com/file/d/13F77LM64kfe3gKazMerYBMOzTV_QnowX/view?usp=sharing)
 ## Example soundfiles
+Sadly Github does not allow embedded audio in a readme, so to listen to the audio files, please download the requested audiofile / folder
 ### Preprocessed example soundfiles
-TODO
+![Mari original](ExampleAudioFiles/OriginalExamples/OriginalUTMari.wav)
 ### Synthesized example soundfiles 
 TODO
